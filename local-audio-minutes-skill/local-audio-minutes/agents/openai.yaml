@@ -1,0 +1,5 @@
+interface:
+  display_name: "Local Audio Minutes"
+  short_description: "Transcribe local audio and create timestamped minutes, transcripts, and a clickable player."
+  default_prompt: "Transcribe this local audio file and create Markdown minutes, an SRT transcript, and a local clickable HTML player."
+
